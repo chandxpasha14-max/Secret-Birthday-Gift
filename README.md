@@ -44,7 +44,7 @@ Everything runs smoothly on desktop, tablet, and mobile browsers with **zero ext
 
 ### 2. 🔐 Shinchan Secret Passcode Screen
 - **Cameo Portrait**: Cameo frame starring Shinchan with dynamic expressive reactions.
-- **4-Digit Secret PIN Entry**: Interactive circular phone-style dial pad and full physical keyboard support.
+- **4-Digit Secret PIN Entry**: 1423 Interactive circular phone-style dial pad and full physical keyboard support.
 - **Playful Error Handling**: Custom Shinchan reaction expressions with gentle card shake animations for incorrect passcodes.
 
 ### 3. 💖 Interactive Teaser Transition
@@ -148,7 +148,7 @@ You can personalize this surprise for your loved one in just a few minutes:
 ### 1. Change the 4-Digit Passcode
 Open `script.js` and locate line 62:
 ```javascript
-const TARGET_PASSCODE = "2005"; // Set your desired 4-digit code (e.g., birth year or special date)
+const TARGET_PASSCODE = "1423"; // Set your desired 4-digit code (e.g., birth year or special date)
 ```
 
 ### 2. Replace Memory Photos
